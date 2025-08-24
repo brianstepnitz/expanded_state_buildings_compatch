@@ -21,6 +21,7 @@ Load this mod AFTER both Expanded Building Grid / Dense UI AND Expanded Building
 
 ## Links
 
+- [View on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3555146841)
 - My [Expanded Building List mod](https://github.com/brianstepnitz/expanded_building_list)
 
 ## Acknowledgements
