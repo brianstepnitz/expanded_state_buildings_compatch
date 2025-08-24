@@ -1,0 +1,13 @@
+{
+	"name": "Expanded Building Grid & Expanded Building List Compatch",
+	"id": "psyllogism.victoria3.ebg_xbl_compatch",
+	"version": "1.0.0",
+	"game_id": "victoria3",
+	"supported_game_version": "1.9.*",
+	"short_description": "Compatch between Expanded Building Grid and Expanded Building List mods",
+	"tags": ["Utilities","Economy And Buildings","Graphics"],
+	"relationships": [],
+	"game_custom_data": {
+		"multiplayer_synchronized": true
+	}
+}
