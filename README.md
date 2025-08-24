@@ -1,4 +1,6 @@
-Compatability patch between my [Expanded Building List mod](https://github.com/brianstepnitz/expanded_building_list) and the [Expanded Building Grid mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3278156786). Works with the [Dense UI mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3378734097) too!
+Compatibility patch between my [Expanded Building List mod](https://github.com/brianstepnitz/expanded_building_list) and the [Expanded Building Grid mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3278156786). Works with the [Dense UI mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3378734097) too!
+
+## Compatibility
 
 Load this mod AFTER both Expanded Building Grid / Dense UI AND Expanded Building List.
 
