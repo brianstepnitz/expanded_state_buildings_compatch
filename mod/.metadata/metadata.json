@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"game_id": "victoria3",
 	"supported_game_version": "1.9.*",
-	"short_description": "Compatch between Expanded Building Grid and Expanded Building List mods",
+	"short_description": "Compatability patch between my Expanded Building List mod and the Expanded Building Grid mod. Works with the Dense UI mod too!",
 	"tags": ["Utilities","Economy And Buildings","Graphics"],
 	"relationships": [],
 	"game_custom_data": {
