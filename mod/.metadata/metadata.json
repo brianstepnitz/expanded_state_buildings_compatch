@@ -1,9 +1,9 @@
 {
 	"name": "Expanded Building Grid & Expanded Building List Compatch",
 	"id": "psyllogism.victoria3.ebg_xbl_compatch",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"game_id": "victoria3",
-	"supported_game_version": "1.10.*",
+	"supported_game_version": "",
 	"short_description": "Compatability patch between my Expanded Building List mod and the Expanded Building Grid mod. Works with the Dense UI mod too!",
 	"tags": ["Utilities","Economy And Buildings","Graphics"],
 	"relationships": [],
